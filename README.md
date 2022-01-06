@@ -1,5 +1,7 @@
 
-**Figure (X).** [Scatterplot comparing the values of -Log(Benjamin Hochberg) for PathFXv1 against PathFXv2](4)
+**Figure (X).** [Scatterplot comparing the values of -Log(Benjamin Hochberg) for PathFXv1 against PathFXv2](([1])]([2])]([3]))
+
+[1][2][3]
 
 
 [1]: https://htmlpreview.github.io/?
