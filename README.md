@@ -13,11 +13,4 @@ Take me to [pookie](#1)
 
 [3]: output_benchmark_general_results/Difference_in_-Log_Benjamini-Hochberg_between_Version_2_and_Version_1_of_PathFX_for_each_CUI-Drug_Record.html
 
-  var eo_url_1 = 'http://www.enviroptics.com/ecommerce/';
-  var eo_url_2 = '.html';
-  var partNum = evt.target.parentNode.children[0].innerText;
-  window.document.location = eo_url_1.concat(eo_url_ext,partNum,eo_url_2);
-
-
-
-<a name=1+2+3></a>
+<a href="http://example.com/" target="_blank">Hello, world!</a>
