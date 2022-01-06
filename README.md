@@ -8,4 +8,4 @@
 
 [3]: output_benchmark_general_results/Difference_in_-Log_Benjamini-Hochberg_between_Version_2_and_Version_1_of_PathFX_for_each_CUI-Drug_Record.html
 
-[4]: [1][2][3]
+[4]: [1]+[2]+[3]
