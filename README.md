@@ -1,7 +1,11 @@
+Take me to [pookie](#1)
+
+
+
 
 **Figure (X).** [Scatterplot comparing the values of -Log(Benjamin Hochberg) for PathFXv1 against PathFXv2][1]
 
-{% link [1] %}
+<a name="head1234"></a>A Heading in this SO entry!
 
 [1]: https://htmlpreview.github.io/?
 
@@ -13,3 +17,14 @@
   var eo_url_2 = '.html';
   var partNum = evt.target.parentNode.children[0].innerText;
   window.document.location = eo_url_1.concat(eo_url_ext,partNum,eo_url_2);
+
+
+
+
+
+
+
+
+
+
+<a name="1"></a>
